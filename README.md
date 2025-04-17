@@ -31,3 +31,5 @@ I am studying Systems Development Technician at SENAI, where I have learned:
 ## Expectations for the Future
 
 After completing my course, my goal is to enter the job market and effectively utilize the knowledge and skills I gained during my studies.
+
+ <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://w7.pngwing.com/pngs/400/997/png-transparent-emoji-doing-thumbs-up-illustration-emoji-emoticon-smiley-like-button-thumb-signal-double-happiness-computer-icons-text-messaging-smile-thumbnail.png)" width="100" />
