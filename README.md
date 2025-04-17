@@ -2,7 +2,7 @@
 
 I am currently studying Systems Development Technician at SENAI
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ASENAI_S%25C3%25A3o_Paulo_logo.png&psig=AOvVaw0v5Yz3gLNvdOuiM0KihMZo&ust=1744977524648000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCq0cuC34wDFQAAAAAdAAAAABAJ" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" width="100" />
 
 
 ## What I'm Learning
