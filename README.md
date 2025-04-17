@@ -1,5 +1,5 @@
 ## Hi there 👋, i am José Marco
-
+I am currently studying Systems Development Technician at SENAI, where I am learning the following technologies:
 <!--
 **Capucin0/Capucin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
