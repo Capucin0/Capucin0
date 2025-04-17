@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is José Marco
 
 <!--
 **Capucin0/Capucin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
