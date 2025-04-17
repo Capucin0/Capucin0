@@ -1,6 +1,8 @@
 ## Hi there 👋, i am José Marco
+
 I am currently studying Systems Development Technician at SENAI, where I am learning the following technologies:
-## 🛠️ What I'm Learning
+## What I'm Learning
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
@@ -10,16 +12,18 @@ I am currently studying Systems Development Technician at SENAI, where I am lear
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
 </div>
 
-**Capucin0/Capucin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm studying
 
-Here are some ideas to get you started:
+I am studying Systems Development Technician at SENAI, where I have learned:
+- **Programming Logic and Algorithms**
+- **Operating system**
+- **Network Architecture with IOT**
+- **Back-End Programming**
+- **Requirements gathering**
+- **Markup Language**
+- **Database**
+- **Software Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expectations for the Future
+
+After completing my course, my goal is to enter the job market and effectively utilize the knowledge and skills I gained during my studies.
