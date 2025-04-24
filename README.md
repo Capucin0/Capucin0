@@ -1,4 +1,4 @@
-## Hi there 👋, i am José Marco
+## Hi there👋, i am José Marco
 
 I am currently studying Systems Development Technician at SENAI
 
